@@ -4,5 +4,3 @@
   </br>
 Building educational tools for students and teachers!  
 </em></p>
-
-[![Twitter: \_maxrios](https://img.shields.io/twitter/follow/_maxrios?style=social)](https://twitter.com/_maxrios)
